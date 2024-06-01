@@ -13,6 +13,9 @@ $(call inherit-product-if-exists, vendor/oneplus/dolby/oplusdolby.mk)
 # MiuiCamera
 $(call inherit-product-if-exists, device/xiaomi/miuicamera-sweet/device.mk)
 
+# Call the BCR setup
+$(call inherit-product-if-exists, vendor/bcr/bcr.mk)
+
 # API level, the device has been commercially launched on
 PRODUCT_SHIPPING_API_LEVEL := 30
 
