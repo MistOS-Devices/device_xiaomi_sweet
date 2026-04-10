@@ -85,7 +85,7 @@ PRODUCT_PACKAGES += \
 
 # Parts
 PRODUCT_PACKAGES += \
-    XiaomiParts
+    SweetParts
 
 # Power
 PRODUCT_COPY_FILES += \
