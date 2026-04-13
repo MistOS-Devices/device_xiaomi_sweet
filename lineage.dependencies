@@ -1,6 +1,56 @@
 [
   {
-    "repository": "android_device_xiaomi_sm6150-common",
-    "target_path": "device/xiaomi/sm6150-common"
+    "repository": "sm6150-dreams/device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/device_xiaomi_miuicamera-sweet",
+    "target_path": "device/xiaomi/miuicamera-sweet",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/vendor_xiaomi_miuicamera-sweet",
+    "target_path": "vendor/xiaomi/miuicamera-sweet",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/vendor_oneplus_dolby",
+    "target_path": "vendor/oneplus/dolby",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/packages_apps_DolbyAtmos",
+    "target_path": "packages/apps/DolbyAtmos",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/vendor_xiaomi_sweet",
+    "target_path": "vendor/xiaomi/sweet",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "remote": "github-non-los",
+    "branch": "16.2"
+  },
+  {
+    "repository": "sm6150-dreams/hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "remote": "github-non-los",
+    "branch": "16.2"
   }
 ]
