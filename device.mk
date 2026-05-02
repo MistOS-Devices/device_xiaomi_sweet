@@ -117,5 +117,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     vndservicemanager
 
+# ViPER4Android FX
+PRODUCT_PACKAGES += \
+    ViPER4AndroidFX
+
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/sweet/sweet-vendor.mk)
