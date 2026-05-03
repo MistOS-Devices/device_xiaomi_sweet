@@ -12,20 +12,20 @@
     "branch": "16.2"
   },
   {
-    "repository": "sm6150-dreams/vendor_xiaomi_miuicamera-sweet",
+    "repository": "stahed-sweet-lab/vendor_xiaomi_miuicamera-sweet",
     "target_path": "vendor/xiaomi/miuicamera-sweet",
     "remote": "github-non-los",
-    "branch": "16.2"
+    "branch": "leica"
   },
   {
-    "repository": "sm6150-dreams/vendor_oneplus_dolby",
-    "target_path": "vendor/oneplus/dolby",
+    "repository": "stahed-sweet-lab/vendor_sony_dolby",
+    "target_path": "vendor/sony/dolby",
     "remote": "github-non-los",
-    "branch": "16.2"
+    "branch": "16"
   },
   {
-    "repository": "sm6150-dreams/packages_apps_DolbyAtmos",
-    "target_path": "packages/apps/DolbyAtmos",
+    "repository": "stahed-sweet-lab/packages_apps_LunarisDolby",
+    "target_path": "packages/apps/LunarisDolby",
     "remote": "github-non-los",
     "branch": "16.2"
   },
@@ -42,15 +42,21 @@
     "branch": "16.2"
   },
   {
-    "repository": "sm6150-dreams/kernel_xiaomi_sm6150",
+    "repository": "stahed-sweet-lab/kernel_xiaomi_sm6150",
     "target_path": "kernel/xiaomi/sm6150",
     "remote": "github-non-los",
-    "branch": "16.2"
+    "branch": "16"
   },
   {
     "repository": "sm6150-dreams/hardware_xiaomi",
     "target_path": "hardware/xiaomi",
     "remote": "github-non-los",
     "branch": "16.2"
+  },
+  {
+    "repository": "stahed-sweet-lab/packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "remote": "github-non-los",
+    "branch": "main"
   }
 ]
