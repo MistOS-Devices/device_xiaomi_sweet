@@ -1,0 +1,56 @@
+[
+  {
+    "repository": "stahed-sweet-lab/device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "remote": "github",
+    "branch": "16.2"
+  },
+  {
+    "repository": "JYRRC/proprietary_vendor_xiaomi_miuicamera",
+    "target_path": "vendor/xiaomi/miuicamera",
+    "remote": "gitlab",
+    "branch": "16.0"
+  },
+  {
+    "repository": "stahed-sweet-lab/vendor_xiaomi_dolby",
+    "target_path": "vendor/xiaomi/dolby",
+    "remote": "github",
+    "branch": "16"
+  },
+  {
+    "repository": "stahed-sweet-lab/packages_apps_XiaomiDolby",
+    "target_path": "packages/apps/XiaomiDolby",
+    "remote": "github",
+    "branch": "16.2"
+  },
+  {
+    "repository": "stahed-sweet-lab/packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "remote": "github",
+    "branch": "16"
+  },
+  {
+    "repository": "stahed-sweet-lab/vendor_xiaomi_sweet",
+    "target_path": "vendor/xiaomi/sweet",
+    "remote": "github",
+    "branch": "16.2"
+  },
+  {
+    "repository": "stahed-sweet-lab/vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common",
+    "remote": "github",
+    "branch": "16.2"
+  },
+  {
+    "repository": "stahed-sweet-lab/kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "remote": "github",
+    "branch": "vantom-ksun"
+  },
+  {
+    "repository": "stahed-sweet-lab/hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "remote": "github",
+    "branch": "16.2"
+  }
+]
